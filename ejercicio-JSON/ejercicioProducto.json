@@ -1,0 +1,16 @@
+{
+  "producto":{
+    "id": 21,
+    "nombre":"Detergente",
+    "descripcion":"Detergente Liquido para cocina, con aroma a Limon",
+    "precio": 1250,
+    "stock": 600,
+    "categoria":["Limpieza","Cocina"],
+    "caracteristicas":{
+      "marca":"Cif",
+      "contenido": "750 ml",
+      "fragancia":"Limon",
+      "tipo":"Liquido"
+    }
+  }
+}
